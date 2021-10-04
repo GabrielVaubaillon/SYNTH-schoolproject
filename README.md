@@ -4,7 +4,7 @@ Sounds You Need To Hear
 
 ## Beginning
 
-Hi, this is a file to log what we do, to know what we've done and where we're going. *(I'd love make this a LaTeX doc)*
+Hi, this is a file to log what we do, to know what we've done and where we're going. *(I'd love to make this a LaTeX doc)*
 
 SYNTH is a school project, we are in electronics engineering school, we are three musicians and we wanted to do a synthesizer.
 We want to have a keyboard, and be able to generate our sounds, almost from scratch. A teacher agreed with this project,
