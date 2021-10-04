@@ -1,6 +1,5 @@
 import matplotlib.pyplot as plt
 import numpy as np
-import scipy
 
 from minblep_tables import *
 from slope_dd_table import *
